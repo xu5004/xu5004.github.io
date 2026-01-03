@@ -1,0 +1,21 @@
+project:
+  type: website
+output-dir: docs
+
+website:
+  title: "Amy Xu"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+format:
+  html:
+    theme:
+      - vapor
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+
