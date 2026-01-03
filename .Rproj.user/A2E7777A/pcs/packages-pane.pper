@@ -1,0 +1,7 @@
+{
+    "installOptions": {
+        "installFromRepository": true,
+        "libraryPath": "/Users/xu.5004/Library/R/arm64/4.5/library",
+        "installDependencies": true
+    }
+}
